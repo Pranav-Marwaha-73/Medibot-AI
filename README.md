@@ -6,3 +6,14 @@ MediBot represents a significant advancement in AI-powered medical assistance, s
  The Streamlit front-end, enhanced with voice input (via Google’s speech recognition) and audio output (via gTTS), provides an intuitive interface, while the RetrievalQA back-end ensures accurate responses validated by source documents. MediBot’s ability to handle text queries and medical images has been rigorously tested, demonstrating its efficacy for educational and preliminary health assistance purposes.
 
 While not a substitute for professional diagnosis, MediBot’s transparent, user-friendly design and robust performance make it a valuable tool for students, educators, and individuals seeking accessible medical information, marking a promising step toward AI-driven healthcare solutions.
+<br>
+<h2>Future Work:-</h2>
+
+1.	Multi-Agent Systems: Future enhancements for MediBot will focus on integrating a multi-agent system to expand its capabilities. A primary agent will continue providing medical insights using the existing vector store and models. A second agent will enable medicine booking, interfacing with pharmacy applications to order medications based on user insights. A third agent, powered by AI, will schedule doctor appointments, connecting with healthcare platforms to streamline consultations. This multi-agent chat system, developed within Visual Studio, will leverage LangChain for agent coordination and API integrations for real-time services. 
+
+2.	Expanded Dataset: Incorporate additional medical texts and real-time data sources to enhance coverage.
+
+3.	Multilingual Support: Add support for non-English queries to broaden accessibility. 
+
+4.	Mobile App: Develop a mobile version for on-the-go access to medical insights.
+
