@@ -118,7 +118,6 @@ Built with a <b>Retrieval-Augmented Generation (RAG)</b> pipeline, MediBot integ
 <ul>
   <li>Text query interface</li>
   <img width="1066" height="482" alt="image" src="https://github.com/user-attachments/assets/ddcdf2f3-d653-4d52-b4de-e129bbfd5739" />
-  <img width="1073" height="467" alt="image" src="https://github.com/user-attachments/assets/c1a5290b-dbd5-4f9f-b183-e819c773161d" />
 
   <li>Voice query usage</li>
   <img width="1073" height="467" alt="image" src="https://github.com/user-attachments/assets/0ca25857-6192-49dc-8b72-25ad8142fca9" />
@@ -127,8 +126,17 @@ Built with a <b>Retrieval-Augmented Generation (RAG)</b> pipeline, MediBot integ
   <img width="1081" height="484" alt="image" src="https://github.com/user-attachments/assets/020f4452-2d70-4ae0-8d68-f1170c7cfdef" />
 
   <li>Medical image analysis output</li>
+  <img width="1066" height="501" alt="image" src="https://github.com/user-attachments/assets/72dd629a-d5cb-4486-81f6-5eb167a62d2f" />
+<img width="1066" height="471" alt="image" src="https://github.com/user-attachments/assets/2ef1cac8-fe1e-4390-9937-5adbe0e8f231" />
+
   <li>Non-medical image rejection</li>
+  <img width="1066" height="468" alt="image" src="https://github.com/user-attachments/assets/3a7ff879-1517-4271-b85b-9483c50f2f59" />
+<img width="1066" height="503" alt="image" src="https://github.com/user-attachments/assets/0dc96eac-3dcf-4cc5-ac32-388e310b7d2c" />
+
   <li>Chat history</li>
+  <img width="395" height="531" alt="image" src="https://github.com/user-attachments/assets/da156bbb-e584-4ba3-bd3f-8ca62602ac57" />
+<img width="356" height="741" alt="image" src="https://github.com/user-attachments/assets/07430af7-bcb7-489c-aa5b-100eca83fc4f" />
+
 </ul>
 
 <h2 id="requirements">💻 Hardware & Software Requirements</h2>
