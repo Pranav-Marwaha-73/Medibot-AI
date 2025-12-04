@@ -105,6 +105,8 @@ Built with a <b>Retrieval-Augmented Generation (RAG)</b> pipeline, MediBot integ
 </ul>
 
 <h2 id="method">🧬 Methodology</h2>
+<img width="1066" height="517" alt="image" src="https://github.com/user-attachments/assets/3ba8c76a-0f93-4777-bd1d-028eb784e32a" />
+
 <ul>
   <li><b>System Design:</b> Frontend (Streamlit) + Backend (Python RAG)</li>
   <li><b>Data Preprocessing:</b> Chunking, embeddings, FAISS storage</li>
