@@ -117,8 +117,15 @@ Built with a <b>Retrieval-Augmented Generation (RAG)</b> pipeline, MediBot integ
 
 <ul>
   <li>Text query interface</li>
+  <img width="1066" height="482" alt="image" src="https://github.com/user-attachments/assets/ddcdf2f3-d653-4d52-b4de-e129bbfd5739" />
+  <img width="1073" height="467" alt="image" src="https://github.com/user-attachments/assets/c1a5290b-dbd5-4f9f-b183-e819c773161d" />
+
   <li>Voice query usage</li>
+  <img width="1073" height="467" alt="image" src="https://github.com/user-attachments/assets/0ca25857-6192-49dc-8b72-25ad8142fca9" />
+
   <li>Retrieved medical documents</li>
+  <img width="1081" height="484" alt="image" src="https://github.com/user-attachments/assets/020f4452-2d70-4ae0-8d68-f1170c7cfdef" />
+
   <li>Medical image analysis output</li>
   <li>Non-medical image rejection</li>
   <li>Chat history</li>
