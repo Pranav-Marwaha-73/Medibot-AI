@@ -113,7 +113,6 @@ Built with a <b>Retrieval-Augmented Generation (RAG)</b> pipeline, MediBot integ
 </ul>
 
 <h2 id="snapshots">📸 Snapshots</h2>
-<p><i>(Insert your images here when uploading to GitHub)</i></p>
 
 <ul>
   <li>Text query interface</li>
